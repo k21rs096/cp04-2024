@@ -44,7 +44,8 @@
     }
     button{
         color: blue;
-        font-family: 'Times;
+        font-family: Times;
+        border-radius: 20px;
     }
     #btnA {
         font-size: 20px;
